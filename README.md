@@ -1,2 +1,2 @@
 # chessBoard
-my test project for learn Kotlin
+my test project
